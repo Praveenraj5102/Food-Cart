@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1 ,
+        "name": "Onion Dosa" ,
+        "amt": "100" ,
+        "shop": "Dosa Cornor" ,
+        "ftype": "Veg" ,
+        "pic": "https://img.freepik.com/free-photo/top-view-tasty-gutabs-thin-hotcakes-with-meat-inside-desk-dark-background-color-dough-oven-pie-pastry-cake-meal-hotcake_179666-46697.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest":"No" 
+    },
+    {
+        "id": 2 ,
+        "name": "Masala Dosa" ,
+        "amt": "120" ,
+        "shop": "Dosa Cornor" ,
+        "ftype":  "Veg" ,
+        "pic":"https://img.freepik.com/free-photo/delicious-indian-dosa-composition_23-2149086051.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "No"
+    },
+    {
+        "id": 3 ,
+        "name": "Chapatti" ,
+        "amt":"30" ,
+        "shop": "Hotel Paviesh Park" ,
+        "ftype": "Veg" ,
+        "pic": "https://img.freepik.com/free-photo/indian-tasty-roti-composition_23-2149073357.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid",
+        "latest": "Yes"
+    },
+    {
+        "id": 4 ,
+        "name": "Aalu Parota" ,
+        "amt": "49" ,
+        "shop": "Kongu Parota" ,
+        "ftype": "Veg" ,
+        "pic": "https://img.freepik.com/free-photo/top-view-qutab-with-greens-yogurt-dried-barberry-black-pepper-table_141793-4110.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "No"
+    },
+    {
+        "id": 5 ,
+        "name":"Parota" ,
+        "amt": "35" ,
+        "shop":"Kongu Parota" ,
+        "ftype": "Veg" ,
+        "pic":"https://img.freepik.com/free-photo/delicious-roti-arrangement-table_23-2149033983.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "Yes"
+    },
+    {
+        "id":6 ,
+        "name": "Naan" ,
+        "amt":"70" ,
+        "shop": "Saravana Mess" ,
+        "ftype": "Veg" ,
+        "pic":  "https://img.freepik.com/free-photo/top-view-pakistani-meal-arrangement_23-2148825100.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "No"
+    },
+    {
+        "id":  7 ,
+        "name": "Chicken 65" ,
+        "amt": "120" ,
+        "shop": "Salem RR" ,
+        "ftype": "Non-Veg" ,
+        "pic": "https://img.freepik.com/free-photo/top-view-spicy-chicken-with-lettuce-lemon-pan-table_181624-61795.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "No"
+    },
+    {
+        "id": 8 ,
+        "name": "Chicken Curry" ,
+        "amt": "399" ,
+        "shop": "Saravana Mess" ,
+        "ftype": "Non-Veg" ,
+        "pic": "https://img.freepik.com/free-photo/pre-prepared-food-showcasing-ready-eat-delicious-meals-go_23-2151246080.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "Yes"
+    },
+    {
+        "id": 9 ,
+        "name": "Fish Curry",
+        "amt": "499" ,
+        "shop": "Saravana Mess" ,
+        "ftype": "Non-Veg" ,
+        "pic":"https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "Yes"
+    },
+    {
+        "id":10 ,
+        "name": "Fish Fry" ,
+        "amt": "470" ,
+        "shop": "Saravana Mess" ,
+        "ftype": "Non-Veg" ,
+        "pic":"https://img.freepik.com/free-photo/dorado-grilled-dorado-with-bell-pepper-eggplant-tomato-lemonnd-pomegranate-sauce-plate_140725-11072.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "No"
+    },
+    {
+        "id": 11 ,
+        "name": "Mutton Curry" ,
+        "amt": "899" ,
+        "shop": "Hotel Paviesh Park" ,
+        "ftype": "Non-Veg" ,
+        "pic": "https://img.freepik.com/free-photo/front-view-meat-sauce-soup-with-greens-potatoes-dark-desk-soup-meal-sauce-meat_140725-79067.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid",
+        "latest": "No"
+    },
+    {
+        "id": 12 ,
+        "name":"Mutton Kabab" ,
+        "amt": "999" ,
+        "shop": "Hotel Paviesh Park" ,
+        "ftype": "Non-Veg" ,
+        "pic": "https://img.freepik.com/free-photo/delicious-skewers-with-meat_23-2150857780.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "Yes"
+    },
+    {
+        "id": 13,
+        "name": "Normal Dosa" ,
+        "amt": "40" ,
+        "shop": "Dosa Cornor" ,
+        "ftype":  "Veg" ,
+        "pic":"https://img.freepik.com/free-photo/crispy-bakery-with-various-sauces_140725-2902.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "No"
+    },
+    {
+        "id":14 ,
+        "name": "Full Meals" ,
+        "amt":"300" ,
+        "shop": "Saravana Mess" ,
+        "ftype": "Veg" ,
+        "pic": "https://img.freepik.com/free-photo/delicious-food-table_23-2150857814.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "No"
+    },
+    {
+        "id": 15 ,
+        "name": "Pasta",
+        "amt": "350" ,
+        "shop": "Hotel Paviesh Park" ,
+        "ftype":"Veg" ,
+        "pic":"https://img.freepik.com/free-photo/forkful-steaming-spaghetti-with-shiny-noodles-hint-tomato-sauce_157027-4040.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "Yes"
+    },
+    {
+        "id":16 ,
+        "name": "Bread Tost",
+        "amt": "100",
+        "shop": "Mc Donalds" ,
+        "ftype":"Veg" ,
+        "pic":"https://img.freepik.com/free-photo/side-view-club-sandwich-with-salted-cucumbers-lemon-olives-round-white-plate_176474-3049.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "No"
+    },
+    {
+        "id":17 ,
+        "name":"Chicken Burger" ,
+        "amt": "230" ,
+        "shop": "Mc Donalds" ,
+        "ftype":"Non-Veg" ,
+        "pic": "https://img.freepik.com/free-photo/view-ready-eat-delicious-meal-go_23-2151431747.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid",
+        "latest": "Yes"
+    },
+    {
+        "id":18 ,
+        "name": "Veg Pizza" ,
+        "amt": "199",
+        "shop": "Pizza Hut",
+        "ftype": "Veg",
+        "pic":"https://img.freepik.com/free-photo/delicious-vegan-pizza-social-post_23-2151895451.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "Yes"
+    },
+    {
+        "id": 19,
+        "name": "Chicken Pizza",
+        "amt": "300" ,
+        "shop":"Pizza Hut" ,
+        "ftype": "Non-Veg",
+        "pic":"https://img.freepik.com/free-photo/delicious-vegan-pizza-social-post_23-2151895452.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "No"
+    },
+    {
+        "id":20 ,
+        "name": "Samosa" ,
+        "amt": "20",
+        "shop": "Saravana Mess" ,
+        "ftype": "Veg",
+        "pic": "https://img.freepik.com/free-photo/deep-fried-samosas-with-spicy-chicken-filling-generated-by-ai_188544-38731.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid",
+        "latest": "Yes"
+    },
+    {
+        "id":21 ,
+        "name":"Chicken Briyani" ,
+        "amt": "149",
+        "shop":"Salem RR" ,
+        "ftype": "Non-Veg",
+        "pic": "https://img.freepik.com/free-photo/plate-food-with-lemon-lemon_505751-3815.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid",
+        "latest": "Yes"
+    },
+    {
+        "id":22 ,
+        "name":"Mutton Briyani" ,
+        "amt": "349",
+        "shop": "Salem RR" ,
+        "ftype": "Non-Veg" ,
+        "pic":"https://img.freepik.com/free-photo/eid-al-fitr-celebration-with-delicious-food_23-2151205115.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid" ,
+        "latest": "No"
+    },
+    {
+        "id":23 ,
+        "name":"Fruit Salad" ,
+        "amt":"199" ,
+        "shop": "Hotel Paviesh Park" ,
+        "ftype": "Veg" ,
+        "pic": "https://img.freepik.com/free-photo/rustic-bowl-fresh-organic-berry-salad-generated-by-ai_188544-10907.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid",
+        "latest": "No"
+    },
+    {
+        "id": 24,
+        "name": "Ice Creame" ,
+        "amt": "99",
+        "shop": "Hotel Paviesh Park" ,
+        "ftype": "Veg",
+        "pic": "https://img.freepik.com/free-photo/indulgent-gourmet-dessert-mint-ice-cream-chocolate-strawberry-raspberry-scoop-generated-by-artificial-intellingence_25030-62508.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid",
+        "latest": "Yes"
+    },
+    {
+        "id": 25,
+        "name":"Fruit Juice" ,
+        "amt": "70" ,
+        "shop":"Hotel Paviesh Park" ,
+        "ftype": "Veg",
+        "pic": "https://img.freepik.com/free-photo/fresh-lemonade-refreshing-drink-healthy-summer-generated-by-artificial-intelligence_188544-129437.jpg?ga=GA1.1.1090711853.1739655809&semt=ais_hybrid",
+        "latest": "No"
+    }
+]
