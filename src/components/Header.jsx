@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 import { Link } from "react-router-dom";
-export const Header = ({cart}) => {
+export const Header = () => {
   return (
     <div className="navbar">
       <div className="logo">Food Cart</div>
